@@ -1,4 +1,7 @@
 # test
+## By Yilan Dong
+### Followed YouTube tutorial Vue JS Crash Course on https://www.youtube.com/watch?v=Wy9q22isx3U&t=575s
+### Tutorial by Traversy Media.
 
 ## Project setup
 ```
